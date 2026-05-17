@@ -1,0 +1,146 @@
+[
+  {
+    "timestamp": "2026-05-10T12:20:15.112000",
+    "user_input": "I have body aches and chills",
+    "agent_response": "Body aches with chills often happen with viral infections like the flu or COVID-19, but they can also happen with fever from other illnesses.\n\n**Home care:** Rest, drink plenty of fluids, and monitor your temperature. Paracetamol or ibuprofen may help reduce discomfort if you can safely take them.\n\n**See a doctor if:** You have difficulty breathing, persistent high fever, confusion, chest pain, or symptoms lasting more than a few days.\n\n*This is educational information only and not a substitute for professional medical advice.*",
+    "feedback": "good"
+  },
+  {
+    "timestamp": "2026-05-10T12:27:42.783000",
+    "user_input": "my nose is blocked and I can't sleep",
+    "agent_response": "A blocked nose can make sleeping really frustrating.\n\n**Possible causes:** Common cold, allergies, or sinus congestion.\n\n**Home care:** Try steam inhalation, saline nasal spray, and sleeping with your head slightly elevated. Staying hydrated can also help thin mucus.\n\n**See a doctor if:** You develop facial swelling, severe headache, high fever, or symptoms lasting more than 10 days.\n\n*Educational information only — consult a healthcare professional for personal advice.*",
+    "feedback": "good"
+  },
+  {
+    "timestamp": "2026-05-10T12:34:11.227000",
+    "user_input": "what should I take for muscle pain",
+    "agent_response": "Muscle pain can happen after exercise, strain, stress, or minor illness.\n\n**Common OTC options people use:** Paracetamol for pain relief or ibuprofen for pain and inflammation, if suitable for you. Avoid exceeding recommended doses.\n\n**Home care:** Rest the affected area, use warm compresses after the first 48 hours, and stay hydrated. Gentle stretching may help.\n\n**See a doctor if:** You have severe swelling, weakness, dark urine, fever, or pain after an injury.\n\n*Please consult a doctor or pharmacist before taking medication.*",
+    "feedback": "bad"
+  },
+  {
+    "timestamp": "2026-05-10T12:41:56.994000",
+    "user_input": "I feel tired all the time",
+    "agent_response": "Feeling constantly tired can happen for many reasons, including poor sleep, stress, dehydration, anemia, or viral illness.\n\n**Home care:** Try to maintain a regular sleep schedule, drink enough water, eat balanced meals, and reduce stress where possible.\n\n**See a doctor if:** Fatigue lasts more than a few weeks, you have unexplained weight loss, shortness of breath, chest pain, or severe weakness.\n\n*This information is educational only and not a diagnosis.*",
+    "feedback": "good"
+  },
+  {
+    "timestamp": "2026-05-10T12:48:03.118000",
+    "user_input": "my throat feels dry and itchy",
+    "agent_response": "A dry, itchy throat is commonly linked to allergies, mild viral infections, dry air, or irritation from dust or smoke.\n\n**Home care:** Drink warm fluids, use honey in tea if appropriate, and consider a humidifier if the air is dry.\n\n**See a doctor if:** You develop breathing difficulty, swelling, persistent fever, or symptoms lasting longer than a week.\n\n*Educational advice only — consult a healthcare provider if symptoms worsen.*",
+    "feedback": "good"
+  },
+  {
+    "timestamp": "2026-05-10T12:55:17.652000",
+    "user_input": "what medicine should I take for acidity",
+    "agent_response": "Acidity or heartburn can feel uncomfortable and is often triggered by spicy foods, overeating, or lying down soon after meals.\n\n**Common OTC options:** Antacids like calcium carbonate may provide short-term relief. Some people also use acid reducers such as famotidine.\n\n**Home care:** Avoid spicy and fatty foods, eat smaller meals, and avoid lying down immediately after eating.\n\n**See a doctor if:** You have chest pain, trouble swallowing, vomiting blood, black stools, or frequent symptoms occurring several times a week.\n\n*Consult a doctor or pharmacist before taking medication, especially if you have existing conditions.*",
+    "feedback": "bad"
+  },
+  {
+    "timestamp": "2026-05-10T13:04:22.115000",
+    "user_input": "I have diarrhea and fever",
+    "agent_response": "Diarrhea with fever may happen with viral gastroenteritis, food poisoning, or other infections.\n\n**Home care:** Drink oral rehydration solution or clear fluids to prevent dehydration. Eat bland foods like rice, bananas, and toast.\n\n**See a doctor if:** You notice blood in stool, severe abdominal pain, signs of dehydration, or fever lasting more than 2-3 days.\n\n*This is educational information only and not a substitute for professional care.*",
+    "feedback": "good"
+  },
+  {
+    "timestamp": "2026-05-10T13:10:48.408000",
+    "user_input": "my ear hurts badly",
+    "agent_response": "Ear pain can happen due to ear infections, wax buildup, jaw problems, or throat infections.\n\n**Home care:** Avoid putting objects into your ear. A warm compress may help reduce discomfort.\n\n**See a doctor if:** You have fever, hearing loss, fluid or blood from the ear, severe swelling, or worsening pain.\n\n*Educational advice only — a healthcare professional can properly examine your ear.*",
+    "feedback": "good"
+  },
+  {
+    "timestamp": "2026-05-10T13:18:01.870000",
+    "user_input": "what should I do for migraine",
+    "agent_response": "Migraines can cause intense headaches along with nausea, light sensitivity, or visual changes.\n\n**Home care:** Rest in a dark, quiet room and stay hydrated. Some people find cold packs helpful.\n\n**Common OTC options people use:** Paracetamol, ibuprofen, or migraine-specific medications if previously recommended by a doctor.\n\n**See a doctor if:** This is your first severe headache, symptoms suddenly worsen, or you have weakness, confusion, or trouble speaking.\n\n*Consult a healthcare professional before taking medications.*",
+    "feedback": "bad"
+  },
+  {
+    "timestamp": "2026-05-10T13:25:36.555000",
+    "user_input": "I have shortness of breath when walking",
+    "agent_response": "Shortness of breath with activity can happen for many reasons, including respiratory infections, asthma, anemia, or heart-related issues.\n\n**Home care:** Rest and avoid strenuous activity until you feel better.\n\n**Seek medical care urgently if:** You have chest pain, bluish lips, dizziness, swelling in the legs, or trouble breathing even while resting.\n\n*This information is educational only and not a diagnosis.*",
+    "feedback": "good"
+  },
+  {
+    "timestamp": "2026-05-10T13:32:49.781000",
+    "user_input": "my eyes are red and itchy",
+    "agent_response": "Red and itchy eyes are often caused by allergies, irritation, dryness, or conjunctivitis.\n\n**Home care:** Avoid rubbing your eyes, wash your hands frequently, and use a clean cool compress.\n\n**See a doctor if:** You have severe pain, vision changes, thick discharge, or sensitivity to light.\n\n*Educational information only — consult an eye specialist if symptoms worsen.*",
+    "feedback": "good"
+  },
+  {
+    "timestamp": "2026-05-10T13:40:27.447000",
+    "user_input": "what medicine should I take for allergies",
+    "agent_response": "Allergy symptoms like sneezing, itchy eyes, and runny nose are very common.\n\n**Common OTC options:** Antihistamines such as cetirizine or loratadine are commonly used for seasonal allergies.\n\n**Home care:** Avoid known triggers, keep windows closed during high pollen days, and shower after outdoor exposure.\n\n**See a doctor if:** You have wheezing, severe swelling, breathing difficulty, or symptoms not improving with basic measures.\n\n*Please consult a doctor or pharmacist before taking medication.*",
+    "feedback": "bad"
+  },
+  {
+    "timestamp": "2026-05-10T13:48:09.115000",
+    "user_input": "I have pain in my joints",
+    "agent_response": "Joint pain can happen due to overuse, arthritis, viral infections, or minor injuries.\n\n**Home care:** Rest the joint, apply ice for swelling, and avoid activities that worsen the pain.\n\n**See a doctor if:** You have severe swelling, redness, fever, inability to move the joint, or persistent pain lasting weeks.\n\n*Educational information only — proper evaluation may be needed to identify the cause.*",
+    "feedback": "good"
+  },
+  {
+    "timestamp": "2026-05-10T13:56:42.219000",
+    "user_input": "my child has fever and cough",
+    "agent_response": "Fever and cough in children are commonly caused by viral infections, but monitoring symptoms is important.\n\n**Home care:** Encourage fluids, rest, and light meals. Keep the room comfortably cool and monitor temperature regularly.\n\n**Seek medical care urgently if:** Your child has difficulty breathing, bluish lips, unusual sleepiness, dehydration, or a seizure.\n\n*This is educational information only — children with persistent or severe symptoms should be evaluated by a doctor.*",
+    "feedback": "good"
+  },
+  {
+    "timestamp": "2026-05-10T14:03:58.700000",
+    "user_input": "I keep sneezing all day",
+    "agent_response": "Frequent sneezing is commonly linked to allergies, dust exposure, or viral infections.\n\n**Home care:** Avoid dust and smoke exposure, wash bedding regularly, and stay hydrated.\n\n**See a doctor if:** Symptoms are severe, you have breathing difficulty, or symptoms continue for weeks without improvement.\n\n*Educational advice only — consult a healthcare provider for persistent symptoms.*",
+    "feedback": "good"
+  },
+  {
+    "timestamp": "2026-05-11T20:56:59.092717",
+    "user_input": "Hey! I've been experiencing stomach cramps since yesterday, what should I do?",
+    "agent_response": "I can imagine how uncomfortable stomach cramps can be for you. \nPossible causes include food poisoning, menstrual cramps, or a viral infection. \nFor relief, you can try over-the-counter options like antacids or anti-diarrheal medicine, but be sure to follow the instructions and consult a doctor if you have any underlying conditions. \nSee a doctor if your cramps are severe, accompanied by vomiting, or last for more than 2 days.\n\n⚕️ This is educational information only — consult a doctor or pharmacist for personal advice.",
+    "feedback": "good"
+  },
+  {
+    "timestamp": "2026-05-11T20:58:50.596348",
+    "user_input": "I have a sore throat and cough",
+    "agent_response": "I can imagine how uncomfortable a sore throat and cough can be for you. \nPossible causes include a viral infection, allergies, or a cold. \nFor relief, you can try over-the-counter options like throat lozenges or cough syrup, but be sure to follow the instructions and take them as directed. \nSee a doctor if your symptoms worsen, last more than a week, or are accompanied by a fever over 102°F.\n\n⚕️ This is educational information only — consult a doctor or pharmacist for personal advice.",
+    "feedback": "good"
+  },
+  {
+    "timestamp": "2026-05-11T20:59:12.567667",
+    "user_input": "I have headache",
+    "agent_response": "I'm so sorry to hear that you're experiencing a headache, it can be really frustrating and painful. \nPossible causes include stress, dehydration, or a migraine. \nYou can try over-the-counter pain relievers like acetaminophen or ibuprofen, but be sure to follow the instructions and take them as directed. \nSee a doctor if your headache is severe, sudden, or accompanied by confusion or vision changes.\n\n⚕️ This is educational information only — consult a doctor or pharmacist for personal advice.",
+    "feedback": "good"
+  },
+  {
+    "timestamp": "2026-05-11T21:02:22.208622",
+    "user_input": "Hi, I am experiencing severe headache any reason?",
+    "agent_response": "I can imagine how frustrating and painful a severe headache must be for you right now. \nPossible causes could be dehydration, stress, or a migraine. \nFor relief, you can try over-the-counter pain relievers like acetaminophen or ibuprofen, but be sure to follow the instructions and not exceed the recommended dose. \nSee a doctor if your headache is accompanied by fever, confusion, or blurred vision.\n\n⚕️ This is educational information only — consult a doctor or pharmacist for personal advice.",
+    "feedback": "good"
+  },
+  {
+    "timestamp": "2026-05-12T13:48:05.582119",
+    "user_input": "Hey, I am not feeling good",
+    "agent_response": "I'm so sorry to hear that you're not feeling well. \nPossible causes could be a virus, stress, or a minor infection. \nFor now, you can try resting and staying hydrated. \nSee a doctor if you have a high fever, severe pain, or difficulty breathing.\n⚕️ This is educational information only — consult a doctor or pharmacist for personal advice.",
+    "feedback": "bad"
+  },
+  {
+    "timestamp": "2026-05-12T13:48:27.676261",
+    "user_input": "Can we play?",
+    "agent_response": "I'm sorry you're not feeling up to playing, and I hope you feel better soon. \nPossible causes of your low energy could be a lack of sleep, a minor illness, or stress. \nYou can try taking a warm bath or practicing relaxation techniques to unwind. \nSee a doctor if you experience persistent fatigue or severe symptoms.\n⚕️ This is educational information only — consult a doctor or pharmacist for personal advice.",
+    "feedback": "good"
+  },
+  {
+    "timestamp": "2026-05-13T15:21:28.209863",
+    "user_input": "Severe headache",
+    "agent_response": "I can imagine how debilitating a severe headache can be, and I'm here to help you find some relief. \nPossible causes include stress, dehydration, or a migraine. \nFor pain relief, you can try over-the-counter options like acetaminophen or ibuprofen, but be sure to follow the dosage instructions.\nSee a doctor if your headache is sudden, severe, or accompanied by fever, confusion, or weakness. \n⚕️ This is educational information only — consult a doctor or pharmacist for personal advice.",
+    "feedback": "bad"
+  },
+  {
+    "timestamp": "2026-05-13T15:21:59.604197",
+    "user_input": "sevre vomit",
+    "agent_response": "I can imagine how miserable severe vomiting can be, and I'm here to help you feel better. \nPossible causes include a stomach virus, food poisoning, or motion sickness. \nFor relief, you can try over-the-counter options like antacids or anti-nausea meds, but be cautious of interactions and follow dosage instructions.\nSee a doctor if you vomit blood, have severe abdominal pain, or show signs of dehydration.\n⚕️ This is educational information only — consult a doctor or pharmacist for personal advice.",
+    "feedback": "bad"
+  },
+  {
+    "timestamp": "2026-05-13T15:28:44.852188",
+    "user_input": "\"what medicine should I take for fever\"",
+    "agent_response": "I can imagine how uncomfortable a fever can be for you. \nPossible causes include infection, flu, or a viral illness. \nFor fever relief, you can try over-the-counter options like acetaminophen (Tylenol) or ibuprofen (Advil), but be sure to follow the dosage instructions and consult a doctor if you have any pre-existing conditions.\nSee a doctor if your fever exceeds 103°F or lasts more than 3 days.\n⚕️ This is educational information only — consult a doctor or pharmacist for personal advice.",
+    "feedback": "skipped"
+  }
+]
